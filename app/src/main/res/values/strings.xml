@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Patient Monitor</string>
+
+
+    <string name="channel_name">NotChannel</string>
+    <string name="channel_description">TestChena</string>
+
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connectPrompt">Connect</string>
+    <string name="disconnectPrompt">Disconnect</string>
+    <string name="title_devices">BLE Devices</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_calibrate">Calibrate</string>
+
+    <string name="connect_icon_desc">Indicates connection state</string>
+
+    <string name="disarm">DISARM</string>
+    <string name="snooze">SNOOZE</string>
+
+</resources>
